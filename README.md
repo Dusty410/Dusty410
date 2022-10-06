@@ -1,1 +1,1 @@
-Hey, I'm @Dusty410, currently a student learning Python, vb.net, SQL, C, and a little JS. PHP next semester. I know very little, but I'm very excited about the possibilities the future holds.
+I'm David, currently a student working towards an Associate's in Computer Information Systems and hoping to graduate Fall 2023. I've taken classes in Python, VB.net, SQL, and C, and this semester I'm taking C++, HTML, and PHP. This repository has some of my class projects and fun things I've done on the side. There's always more to learn!
