@@ -1,1 +1,1 @@
-I'm David, a recent graduate from Cincinnati State with an Associate's in Computer Information Systems. This repository has some of my class projects and fun things I've done on the side. There's always more to learn!
+I'm David, a recent graduate from Cincinnati State where I completed an Associate's of Applied Science in Computer Information Systems. This repository has some of my class projects and fun things I've done on the side.
